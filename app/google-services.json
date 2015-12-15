@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "regal-campus-115811",
+    "project_number": "876211363777",
+    "name": "Google Signin Demo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876211363777:android:f81cda612a8405fa",
+        "client_id": "android:com.shadeven.signin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.shadeven.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876211363777-msf3hl36gm6bclfk8cogs8jv4kr467qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shadeven.signin",
+            "certificate_hash": "4CEBF2478157DC938A63119639B506025FFECBCA"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

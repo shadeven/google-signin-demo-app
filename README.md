@@ -1,1 +1,1 @@
-# google-signin-demo-app
+# google-signin-demo
